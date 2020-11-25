@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rhymes</string>
+    <string name="lyrics_name">Lyrics</string>
+    <string name="loading_text">Loading....</string>
+</resources>
